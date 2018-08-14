@@ -9,5 +9,4 @@ const modulo = a % 2
 console.log(soma, subtracao, multiplicacao, divisao, modulo)
 
 //Trabalhamos um pouco os operadores basicos aritimédicos, vimos que 
-//o operador aritimedico é um numero binário .
-
+//o operador aritimedico é um numero binário
